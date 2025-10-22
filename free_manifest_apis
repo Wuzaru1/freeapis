@@ -1,16 +1,23 @@
-  "api_list": [
-        {
-            "name": "TwentyTwo Cloud",
-            "url": "http://masss.pythonanywhere.com/storage?auth=IEOIJE54esfsipoE56GE4&appid=<appid>",
-            "success_code": 200,
-            "unavailable_code": 404,
-            "enabled": true
-        },
-        {
-            "name": "Sushi",
-            "url": "https://raw.githubusercontent.com/sushi-dev55/sushitools-games-repo/refs/heads/main/<appid>.zip",
-            "success_code": 200,
-            "unavailable_code": 404,
-            "enabled": true
-        }
-    ]
+"api_list": [
+    {
+        "name": "TwentyTwo Cloud",
+        "url": "http://masss.pythonanywhere.com/storage?auth=IEOIJE54esfsipoE56GE4&appid=<appid>",
+        "success_code": 200,
+        "unavailable_code": 404,
+        "enabled": true
+    },
+    {
+        "name": "Sushi",
+        "url": "https://raw.githubusercontent.com/sushi-dev55/sushitools-games-repo/refs/heads/main/<appid>.zip",
+        "success_code": 200,
+        "unavailable_code": 404,
+        "enabled": true
+    },
+    {
+        "name": "GhostDepots",
+        "url": "https://ghostdepots.xyz/api/games/<appid>/download?api_key=gda_CJXMOq0OONANDQQjZdonxt62Euyqhj6h",
+        "success_code": 200,
+        "unavailable_code": 404,
+        "enabled": true
+    }
+]
