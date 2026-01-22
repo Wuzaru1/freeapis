@@ -1,7 +1,7 @@
 "api_list": [
     {
         "name": "TwentyTwo Cloud",
-        "url": "http://masss.pythonanywhere.com/storage?auth=IEOIJE54esfsipoE56GE4&appid=<appid>",
+        "url": "https://masss.pythonanywhere.com/storage?auth=35fcf311-7870-4e5a-97e1-e4a25717ca9d&appid=<appid>",
         "success_code": 200,
         "unavailable_code": 404,
         "enabled": true
